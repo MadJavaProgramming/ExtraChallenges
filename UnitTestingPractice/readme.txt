@@ -10,8 +10,8 @@ Your goal is to write unit tests to prove the following classes work correctly.
 
 Tips: 
 
-1. In each class, examples are provided of the expected output given certain input. *AT MINIMUM, your unit tests must successfully test each of these cases to receive
-	full credit for testing that class.*
+1. In each class, examples are provided of the expected output given certain input. AT MINIMUM, your unit tests must successfully test each of these cases to receive
+	full credit for testing that class.
 2. Look for // TODO comments in the classes to guide your work.
 3. TestGreeting is provided as an example of unit testing the Greeting class.
 
