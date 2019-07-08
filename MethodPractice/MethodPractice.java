@@ -32,6 +32,7 @@ public class MethodPractice {
      *  Takes 1 int as a parameter and returns the difference between 10 and the number.
 	 * 
      * @param inputNumber the number to subract from 10
+     * @return result of subtracting the input number from 10.
      **/
 			
     public int calculateDifferenceFromTen(int inputNumber) {
