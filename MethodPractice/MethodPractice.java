@@ -1,5 +1,5 @@
 /**
- * MathodPractice class which will provide practice creating methods with various parameters and return types. 
+ * MethodPractice class which will provide practice creating methods with various parameters and return types. 
  * This class was created for the in-class mini-team challenge in week 5
  *
  * @author Paula Waite
