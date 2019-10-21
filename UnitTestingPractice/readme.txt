@@ -11,7 +11,7 @@ Your goal is to write unit tests to prove the following classes work correctly.
 Tips: 
 
 1. In each class, examples are provided of the expected output given certain input. AT MINIMUM, your unit tests must successfully test each of these cases to receive
-	full credit for testing that class. You should have one method per "case", do not roll all test cases into a single method!
+	full credit for testing that class. You should have one code block per "case", do not roll all test cases into a single code block or if/else check!
 2. Look for // TODO comments in the classes to guide your work.
 3. TestGreeting is provided as an example of unit testing the Greeting class.
 
@@ -21,4 +21,4 @@ This extra credit exercise should be treated as project work: it should be compl
 To submit your work for grading, zip up your completed java111EC directory and send it to your instructor (by Slack or Email) along with screenshots
 of the output from each of your completed test classes.
 
-This extra credit exercise will be accepted until July 31, 2019 at 11:59 p.m.
+This extra credit exercise will be accepted until November 17, 2019 at 9:59 p.m.
