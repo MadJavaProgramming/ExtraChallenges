@@ -21,4 +21,4 @@ This extra credit exercise should be treated as project work: it should be compl
 To submit your work for grading, zip up your completed java111EC directory and send it to your instructor (by Slack or Email) along with screenshots
 of the output from each of your completed test classes.
 
-This extra credit exercise will be accepted until November 17, 2019 at 9:59 p.m.
+This extra credit exercise will be accepted until November 17, 2019 at 8:59 p.m.
