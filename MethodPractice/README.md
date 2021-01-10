@@ -14,4 +14,4 @@ This extra credit exercise should be treated as project work: it should be compl
 To submit your work for grading, zip up your projects directory and send it to your instructor (by Slack) along with screenshots
 of the output from your completed test class.
 
-This extra credit exercise will be accepted until November 1, 2020 at 9:00 p.m.
+This extra credit exercise will be accepted until March 14, 2021 at 9:00 p.m.
