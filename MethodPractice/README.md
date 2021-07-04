@@ -1,4 +1,4 @@
-# Method Practice - Extra Credit - Possible Points: 3
+# Method Practice
 
 1. Copy MethodPractice.java and MethodPracticeTestDrive.java to your labs directory.
 2. Do not make any changes yet! 
@@ -9,9 +9,6 @@
 
 **Tip** Compile and run often so that you don't end up with large blocks of code to debug!
 
-This extra credit exercise should be treated as project work: it should be completed independently.
-
-To submit your work for grading, zip up your projects directory and send it to your instructor (by Slack) along with screenshots
+To submit your work for feedback, zip up your projects directory and send it to your instructor (by Slack) along with screenshots
 of the output from your completed test class.
 
-This extra credit exercise will be accepted until March 14, 2021 at 9:00 p.m.
