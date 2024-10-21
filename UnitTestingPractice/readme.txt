@@ -2,10 +2,10 @@ Java 111 Extra Challenge - Unit Testing
 
 Your goal is to write unit tests to prove the following classes work correctly. 
 
-1. SubStringPractice. Write your unit tests in TestSubStringPractice. (.5 point)
-2. NumberChallenge1. Write your unit tests in TestNumberChallenge1. (1 point)
-3. NumberChallenge2. Fix NumberChallenge2 so that it works according to the method comments. Write your unit tests in TestNumberChallenge2. (1.5 points)
-4. NumberChallenge3. Complete NumberChallenge3 so that it works according to the method comments. Write your unit tests in TestNumberChallenge3. (2 points)
+1. SubStringPractice. Write your unit tests in TestSubStringPractice. 
+2. NumberChallenge1. Write your unit tests in TestNumberChallenge1. 
+3. NumberChallenge2. Fix NumberChallenge2 so that it works according to the method comments. Write your unit tests in TestNumberChallenge2. 
+4. NumberChallenge3. Complete NumberChallenge3 so that it works according to the method comments. Write your unit tests in TestNumberChallenge3. 
 
 
 Tips: 
