@@ -1,4 +1,4 @@
-Java 111 Extra Credit - Unit Testing - Possible Points: 5
+Java 111 Extra Challenge - Unit Testing
 
 Your goal is to write unit tests to prove the following classes work correctly. 
 
