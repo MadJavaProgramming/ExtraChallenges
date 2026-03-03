@@ -9,6 +9,9 @@
 
 **Tip** Compile and run often so that you don't end up with large blocks of code to debug!
 
-To submit your work for feedback, zip up your projects directory and send it to your instructor (by Slack) along with screenshots
-of the output from your completed test class.
+To submit your work for feedback:
+
+1. Create a "challenges" directory under screenshots.
+2. Take a screenshot showing all output from the test drive, name it MethodPracticeOutput.png, and place the screenshot in the directory you created above.
+3. Create an issue called "Method Practice Challenge Ready for Review" and tag your instructor. Include a brief summary of what you learned during this challenge.
 
