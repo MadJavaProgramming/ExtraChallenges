@@ -15,6 +15,9 @@ Tips:
 3. TestGreeting is provided as an example of unit testing the Greeting class.
 
 
-To submit your work for feedback, zip up your completed java111EC directory and send it to your instructor (by Slack) along with screenshots
-of the output from each of your completed test classes.
+To submit your work for feedback:
+
+1. Create a "challenges" directory under screenshots if you don't already have one.
+2. Take screenshots showing all output from the test drives. Name the files something meaningful that clearly describes what the screenshot represents.  Place the screenshots in the directory you created above.
+3. Create an issue called "Unit Testing Practice Challenge Ready for Review" and tag your instructor. Include a brief summary of what you learned during this challenge.
 
